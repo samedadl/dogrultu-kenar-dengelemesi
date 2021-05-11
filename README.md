@@ -1,0 +1,1 @@
+# dogrultu-kenar-dengelemesi
